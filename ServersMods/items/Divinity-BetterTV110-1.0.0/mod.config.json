@@ -1,0 +1,14 @@
+{
+	"name": "BetterTV110",
+	"author": "Divinity",
+	"license": "None",
+	"version": "1.0.0",
+	"dependencies": {},
+	"res": {},
+	"src":{},
+	"db": {
+		"items": {
+			"5c0e746986f7741453628fe5": "db/items/5c0e746986f7741453628fe5.json"
+}
+	}
+}

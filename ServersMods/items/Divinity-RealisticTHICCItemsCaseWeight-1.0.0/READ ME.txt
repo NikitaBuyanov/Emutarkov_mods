@@ -1,0 +1,3 @@
+This mod changes the T H I C C Items Case to a more realistic weight of 17kg.
+
+Just copy and paste the folder into your \server\user\mods folder.

@@ -1,0 +1,14 @@
+{
+	"name": "RealisticThermobagWeight",
+	"author": "Divinity",
+	"license": "None",
+	"version": "1.0.0",
+	"dependencies": {},
+	"res": {},
+	"src":{},
+	"db": {
+		"items": {
+			"5aafbcd986f7745e590fff23": "db/items/5aafbcd986f7745e590fff23.json"
+}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "silencer_silencerco_sparrow_22lr",
+	"_tpl": "silencer_silencerco_sparrow_22lr",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

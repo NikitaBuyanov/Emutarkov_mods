@@ -1,0 +1,10 @@
+{
+	"_id": "item_dogtag_t2",
+	"_tpl": "item_dogtag_t2",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

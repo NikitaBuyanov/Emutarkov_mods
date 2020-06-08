@@ -1,0 +1,14 @@
+{
+	"name": "BetterLBT6094Slick",
+	"author": "Divinity",
+	"license": "None",
+	"version": "1.0.0",
+	"dependencies": {},
+	"res": {},
+	"src":{},
+	"db": {
+		"items": {
+			"5e4abb5086f77406975c9342": "db/items/5e4abb5086f77406975c9342.json"
+}
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "item_spec_minedetector",
+	"_tpl": "item_spec_minedetector",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

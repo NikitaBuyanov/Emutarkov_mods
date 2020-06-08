@@ -1,0 +1,14 @@
+{
+	"name": "RealisticTHICCItemsCaseWeight",
+	"author": "Divinity",
+	"license": "None",
+	"version": "1.0.0",
+	"dependencies": {},
+	"res": {},
+	"src":{},
+	"db": {
+		"items": {
+			"5c0a840b86f7742ffa4f2482": "db/items/5c0a840b86f7742ffa4f2482.json"
+}
+	}
+}

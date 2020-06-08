@@ -1,0 +1,10 @@
+{
+	"_id": "4_class_chest_stomach_plate",
+	"_tpl": "4_class_chest_stomach_plate",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

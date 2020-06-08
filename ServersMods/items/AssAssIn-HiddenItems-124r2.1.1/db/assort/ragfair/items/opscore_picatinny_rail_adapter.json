@@ -1,0 +1,10 @@
+{
+	"_id": "opscore_picatinny_rail_adapter",
+	"_tpl": "opscore_picatinny_rail_adapter",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

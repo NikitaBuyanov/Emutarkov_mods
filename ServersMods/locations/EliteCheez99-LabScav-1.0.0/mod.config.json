@@ -1,0 +1,13 @@
+{
+	"name": "LabScav",
+	"author": "EliteCheez99",
+	"version": "1.0.0",
+    "license": "MIT",
+    "db": {
+        "locations": {
+            "laboratory": {
+                "base": "db/locations/laboratory/base.json"
+            }
+        }
+    }
+}

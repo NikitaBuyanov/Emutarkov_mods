@@ -1,0 +1,10 @@
+{
+	"_id": "silencer_kac_qdc_65x35",
+	"_tpl": "silencer_kac_qdc_65x35",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

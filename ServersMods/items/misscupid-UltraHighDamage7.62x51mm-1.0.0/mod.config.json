@@ -1,0 +1,52 @@
+{
+	"name": "UltraHighDamage7.62x51mm",
+	"author": "misscupid",
+	"version": "1.0.0",
+	"license": "MIT",
+	"dependencies": {},
+	
+	"db": {
+		"items": {
+			"UltraHighDamage7.62x51mm":      		"db/items/UltraHighDamage7.62x51mm.json",
+			"5df8f535bb49d91fb446d6b0":             "db/items/5df8f535bb49d91fb446d6b0.json",
+			"5df8f541c41b2312ea3335e3":             "db/items/5df8f541c41b2312ea3335e3.json",
+			"5a3501acc4a282000d72293a":             "db/items/5a3501acc4a282000d72293a.json",
+			"5a367e5dc4a282000e49738f":             "db/items/5a367e5dc4a282000e49738f.json",
+			"5bfea6e90db834001b7347f3":             "db/items/5bfea6e90db834001b7347f3.json",
+			"5d25a7b88abbc3054f3e60bc":             "db/items/5d25a7b88abbc3054f3e60bc.json",
+			"5ce69cbad7f00c00b61c5098":             "db/items/5ce69cbad7f00c00b61c5098.json",
+			"5d25a6a48abbc306c62e6310":             "db/items/5d25a6a48abbc306c62e6310.json",
+			"5cf12a15d7f00c05464b293f":			    "db/items/5cf12a15d7f00c05464b293f.json",
+			"5d25af8f8abbc3055079fec5":             "db/items/5d25af8f8abbc3055079fec5.json",
+			"5d25a6538abbc306c62e630d":             "db/items/5d25a6538abbc306c62e630d.json",
+			"5d25a4a98abbc30b917421a4":             "db/items/5d25a4a98abbc30b917421a4.json",
+			"5bfeaa0f0db834001b734927":             "db/items/5bfeaa0f0db834001b734927.json",
+			"5bfea7ad0db834001c38f1ee":             "db/items/5bfea7ad0db834001c38f1ee.json"
+		},
+		"templates": {
+			"items": {
+				"UltraHighDamage7.62x51mm":      "db/templates/items/UltraHighDamage7.62x51mm.json"
+				
+			}
+		},
+		"locales": {
+			"en": {
+				"templates": {
+					"UltraHighDamage7.62x51mm":      "db/locales/en/UltraHighDamage7.62x51mm.json"
+				}
+			},
+			"ch": {
+				"templates":{
+					"UltraHighDamage7.62x51mm":      "db/locales/ch/UltraHighDamage7.62x51mm.json"
+				}
+			}
+		},
+		"assort": {
+			"ragfair": {
+				"items": {
+					"UltraHighDamage7.62x51mm":      "db/assort/ragfair/items/UltraHighDamage7.62x51mm.json"
+				}
+			}
+		}
+	}
+}

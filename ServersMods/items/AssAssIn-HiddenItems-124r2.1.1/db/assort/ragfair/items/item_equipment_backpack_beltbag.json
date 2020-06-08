@@ -1,0 +1,10 @@
+{
+	"_id": "item_equipment_backpack_beltbag",
+	"_tpl": "item_equipment_backpack_beltbag",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

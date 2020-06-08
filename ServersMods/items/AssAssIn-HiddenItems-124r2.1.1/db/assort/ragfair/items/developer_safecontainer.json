@@ -1,0 +1,10 @@
+{
+	"_id": "developer_safecontainer",
+	"_tpl": "developer_safecontainer",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

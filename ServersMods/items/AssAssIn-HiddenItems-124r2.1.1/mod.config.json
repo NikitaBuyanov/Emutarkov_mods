@@ -1,0 +1,108 @@
+{
+	"name": "HiddenItems",
+	"author": "AssAssIn",
+	"license": "MIT",
+	"version": "124r2.1.1",
+	"dependencies": [],
+	"db": {
+		"assort":{
+			"ragfair":{
+				"items":{
+					"item_spec_minedetector": "db/assort/ragfair/items/item_spec_minedetector.json",
+
+					"developer_safecontainer": "db/assort/ragfair/items/developer_safecontainer.json",
+					"developer_container_junkbox": "db/assort/ragfair/items/developer_container_junkbox.json",
+					"item_equipment_backpack_beltbag": "db/assort/ragfair/items/item_equipment_backpack_beltbag.json",
+
+					"item_dog_tags":  "db/assort/ragfair/items/item_dog_tags.json",
+					"item_dogtag_t2": "db/assort/ragfair/items/item_dogtag_t2.json",
+
+					"opscore_gasmask": "db/assort/ragfair/items/opscore_gasmask.json",
+
+					"opscore_picatinny_rail_adapter":    "db/assort/ragfair/items/opscore_picatinny_rail_adapter.json",
+					"opscore_single_clamp_rail_adapter": "db/assort/ragfair/items/opscore_single_clamp_rail_adapter.json",
+
+					"silencer_kac_qdc_65x35": "db/assort/ragfair/items/silencer_kac_qdc_65x35.json",
+					"silencer_silencerco_sparrow_22lr": "db/assort/ragfair/items/silencer_silencerco_sparrow_22lr.json"
+				}
+			}
+		},
+		"items": {
+			"item_spec_minedetector": "db/items/item_spec_minedetector.json",
+
+			"developer_safecontainer": "db/items/developer_safecontainer.json",
+			"developer_container_junkbox": "db/items/developer_container_junkbox.json",
+			"item_equipment_backpack_beltbag": "db/items/item_equipment_backpack_beltbag.json",
+
+			"item_dog_tags":  "db/items/item_dog_tags.json",
+			"item_dogtag_t2": "db/items/item_dogtag_t2.json",
+			
+			"opscore_gasmask": "db/items/opscore_gasmask.json",
+
+			"opscore_picatinny_rail_adapter":    "db/items/opscore_picatinny_rail_adapter.json",
+			"opscore_single_clamp_rail_adapter": "db/items/opscore_single_clamp_rail_adapter.json",
+			"5a154d5cfcdbcb001a3b00da":          "db/items/5a154d5cfcdbcb001a3b00da.json",
+			"5ac8d6885acfc400180ae7b0":          "db/items/5ac8d6885acfc400180ae7b0.json",
+			"5c17a7ed2e2216152142459c":          "db/items/5c17a7ed2e2216152142459c.json",
+			"5d5e7d28a4b936645d161203":          "db/items/5d5e7d28a4b936645d161203.json",
+			"5d5e9c74a4b9364855191c40":          "db/items/5d5e9c74a4b9364855191c40.json",
+			"5e4bfc1586f774264f7582d3":          "db/items/5e4bfc1586f774264f7582d3.json",
+			"5b432d215acfc4771e1c6624":          "db/items/5b432d215acfc4771e1c6624.json",
+
+			"silencer_kac_qdc_65x35":           "db/items/silencer_kac_qdc_65x35.json",
+			"56ea8180d2720bf2698b456a":         "db/items/56ea8180d2720bf2698b456a.json",
+
+			"silencer_silencerco_sparrow_22lr": "db/items/silencer_silencerco_sparrow_22lr.json",
+			"5bb20dadd4351e00367faeff":         "db/items/5bb20dadd4351e00367faeff.json",
+			"5d440b9fa4b93601354d480c":         "db/items/5d440b9fa4b93601354d480c.json",
+			"5d440b93a4b9364276578d4b":         "db/items/5d440b93a4b9364276578d4b.json",
+			"5c0e2f94d174af029f650d56":         "db/items/5c0e2f94d174af029f650d56.json",
+			"5c48a2852e221602b21d5923":         "db/items/5c48a2852e221602b21d5923.json",
+			"55d3632e4bdc2d972f8b4569":         "db/items/55d3632e4bdc2d972f8b4569.json",
+			"55d35ee94bdc2d61338b4568":         "db/items/55d35ee94bdc2d61338b4568.json",
+			"5e21ca18e4d47f0da15e77dd":         "db/items/5e21ca18e4d47f0da15e77dd.json"
+		},
+		"locales":{
+			"en":{
+				"templates":{
+					"item_spec_minedetector": "db/locales/en/templates/item_spec_minedetector.json",
+
+					"developer_safecontainer": "db/locales/en/templates/developer_safecontainer.json",
+					"developer_container_junkbox": "db/locales/en/templates/developer_container_junkbox.json",
+					"item_equipment_backpack_beltbag": "db/locales/en/templates/item_equipment_backpack_beltbag.json",
+
+					"item_dog_tags":  "db/locales/en/templates/item_dog_tags.json",
+					"item_dogtag_t2": "db/locales/en/templates/item_dogtag_t2.json",
+
+					"opscore_gasmask": "db/locales/en/templates/opscore_gasmask.json",
+
+					"opscore_picatinny_rail_adapter":    "db/locales/en/templates/opscore_picatinny_rail_adapter.json",
+					"opscore_single_clamp_rail_adapter": "db/locales/en/templates/opscore_single_clamp_rail_adapter.json",
+
+					"silencer_kac_qdc_65x35": "db/locales/en/templates/silencer_kac_qdc_65x35.json",
+					"silencer_silencerco_sparrow_22lr": "db/locales/en/templates/silencer_silencerco_sparrow_22lr.json"
+				}
+			}
+		},
+		"templates":{
+			"items":{
+				"item_spec_minedetector": "db/templates/items/item_spec_minedetector.json",
+
+				"developer_safecontainer": "db/templates/items/developer_safecontainer.json",
+				"developer_container_junkbox": "db/templates/items/developer_container_junkbox.json",
+				"item_equipment_backpack_beltbag": "db/templates/items/item_equipment_backpack_beltbag.json",
+
+				"item_dog_tags":  "db/templates/items/item_dog_tags.json",
+				"item_dogtag_t2": "db/templates/items/item_dogtag_t2.json",
+
+				"opscore_gasmask": "db/templates/items/opscore_gasmask.json",
+
+				"opscore_picatinny_rail_adapter":    "db/templates/items/opscore_picatinny_rail_adapter.json",
+				"opscore_single_clamp_rail_adapter": "db/templates/items/opscore_single_clamp_rail_adapter.json",
+
+				"silencer_kac_qdc_65x35": "db/templates/items/silencer_kac_qdc_65x35.json",
+				"silencer_silencerco_sparrow_22lr": "db/templates/items/silencer_silencerco_sparrow_22lr.json"
+			}
+		}
+	}
+}

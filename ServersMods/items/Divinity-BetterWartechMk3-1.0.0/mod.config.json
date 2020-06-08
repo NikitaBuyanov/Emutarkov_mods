@@ -1,0 +1,14 @@
+{
+	"name": "BetterWartechMk3",
+	"author": "Divinity",
+	"license": "None",
+	"version": "1.0.0",
+	"dependencies": {},
+	"res": {},
+	"src":{},
+	"db": {
+		"items": {
+			"5ab8dab586f77441cd04f2a2": "db/items/5ab8dab586f77441cd04f2a2.json"
+}
+	}
+}

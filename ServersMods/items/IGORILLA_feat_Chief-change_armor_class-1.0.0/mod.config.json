@@ -1,0 +1,221 @@
+{
+"name": "change_armor_class",
+"author": "IGORILLA_feat_Chief",
+"license": "Do you use a license ?",
+"version": "1.0.0",
+"dependencies": {},
+	"db": {
+		"items": {
+			"6_class_chest_stomach_plate": "db/items/6_class_chest_stomach_plate.json",
+			
+			"5648a7494bdc2d9d488b4583": "db/items/5648a7494bdc2d9d488b4583.json",
+			"59e7635f86f7742cbf2c1095": "db/items/59e7635f86f7742cbf2c1095.json",
+			"5df8a2ca86f7740bfe6df777": "db/items/5df8a2ca86f7740bfe6df777.json",
+			"5ab8e4ed86f7742d8e50c7fa": "db/items/5ab8e4ed86f7742d8e50c7fa.json",
+			"5c0e5edb86f77461f55ed1f7": "db/items/5c0e5edb86f77461f55ed1f7.json",
+			"5c0e5bab86f77461f55ed1f3": "db/items/5c0e5bab86f77461f55ed1f3.json",
+			"5b44d22286f774172b0c9de8": "db/items/5b44d22286f774172b0c9de8.json",
+			"5c0e51be86f774598e797894": "db/items/5c0e51be86f774598e797894.json",
+			"5c0e53c886f7747fa54205c7": "db/items/5c0e53c886f7747fa54205c7.json",
+			"5c0e57ba86f7747fa141986d": "db/items/5c0e57ba86f7747fa141986d.json",
+			"5c0e655586f774045612eeb2": "db/items/5c0e655586f774045612eeb2.json",
+			"545cdb794bdc2d3a198b456a": "db/items/545cdb794bdc2d3a198b456a.json",
+			"5e4abb5086f77406975c9342": "db/items/5e4abb5086f77406975c9342.json",
+			"5ca2151486f774244a3b8d30": "db/items/5ca2151486f774244a3b8d30.json",
+			"5ab8e79e86f7742d8b372e78": "db/items/5ab8e79e86f7742d8b372e78.json",
+			"5b44d0de86f774503d30cba8": "db/items/5b44d0de86f774503d30cba8.json",
+			"5c0e625a86f7742d77340f62": "db/items/5c0e625a86f7742d77340f62.json",
+			"5b44cf1486f77431723e3d05": "db/items/5b44cf1486f77431723e3d05.json",
+			"5c0e541586f7747fa54205c9": "db/items/5c0e541586f7747fa54205c9.json",
+			"5ca21c6986f77479963115a7": "db/items/5ca21c6986f77479963115a7.json",
+			"5b44cd8b86f774503d30cba2": "db/items/5b44cd8b86f774503d30cba2.json",
+			
+			"5_class_chest_stomach_plate": "db/items/5_class_chest_stomach_plate.json",
+			"4_class_chest_stomach_plate": "db/items/4_class_chest_stomach_plate.json",
+			"3_class_chest_stomach_plate": "db/items/3_class_chest_stomach_plate.json",
+			"2_class_chest_stomach_plate": "db/items/2_class_chest_stomach_plate.json",
+			
+			"2_class_chest_plate": "db/items/2_class_chest_plate.json",
+			"3_class_chest_plate": "db/items/3_class_chest_plate.json",
+			"4_class_chest_plate": "db/items/4_class_chest_plate.json",
+			"5_class_chest_plate": "db/items/5_class_chest_plate.json",
+			"6_class_chest_plate": "db/items/6_class_chest_plate.json",
+			
+			"3_class_arm_plate": "db/items/3_class_arm_plate.json",
+			"4_class_arm_plate": "db/items/4_class_arm_plate.json",
+			"5_class_arm_plate": "db/items/5_class_arm_plate.json",
+			"6_class_arm_plate": "db/items/6_class_arm_plate.json",
+			"2_class_arm_plate": "db/items/2_class_arm_plate.json"
+		},
+		"assort": {
+			"ragfair": {
+				"barter_scheme": {
+					"6_class_chest_stomach_plate": "db/assort/ragfair/barter_scheme/6_class_chest_stomach_plate.json",
+					"5648a7494bdc2d9d488b4583": "db/assort/ragfair/barter_scheme/5648a7494bdc2d9d488b4583.json",
+					"59e7635f86f7742cbf2c1095": "db/assort/ragfair/barter_scheme/59e7635f86f7742cbf2c1095.json",
+					"5df8a2ca86f7740bfe6df777": "db/assort/ragfair/barter_scheme/5df8a2ca86f7740bfe6df777.json",
+					"5ab8e4ed86f7742d8e50c7fa": "db/assort/ragfair/barter_scheme/5ab8e4ed86f7742d8e50c7fa.json",
+					"5c0e5edb86f77461f55ed1f7": "db/assort/ragfair/barter_scheme/5c0e5edb86f77461f55ed1f7.json",
+					"5c0e5bab86f77461f55ed1f3": "db/assort/ragfair/barter_scheme/5c0e5bab86f77461f55ed1f3.json",
+					"5b44d22286f774172b0c9de8": "db/assort/ragfair/barter_scheme/5b44d22286f774172b0c9de8.json",
+					"5c0e51be86f774598e797894": "db/assort/ragfair/barter_scheme/5c0e51be86f774598e797894.json",
+					"5c0e53c886f7747fa54205c7": "db/assort/ragfair/barter_scheme/5c0e53c886f7747fa54205c7.json",
+					"5c0e57ba86f7747fa141986d": "db/assort/ragfair/barter_scheme/5c0e57ba86f7747fa141986d.json",
+					"5c0e655586f774045612eeb2": "db/assort/ragfair/barter_scheme/5c0e655586f774045612eeb2.json",
+					"545cdb794bdc2d3a198b456a": "db/assort/ragfair/barter_scheme/545cdb794bdc2d3a198b456a.json",
+					"5e4abb5086f77406975c9342": "db/assort/ragfair/barter_scheme/5e4abb5086f77406975c9342.json",
+					"5ca2151486f774244a3b8d30": "db/assort/ragfair/barter_scheme/5ca2151486f774244a3b8d30.json",
+					"5ab8e79e86f7742d8b372e78": "db/assort/ragfair/barter_scheme/5ab8e79e86f7742d8b372e78.json",
+					"5b44d0de86f774503d30cba8": "db/assort/ragfair/barter_scheme/5b44d0de86f774503d30cba8.json",
+					"5c0e625a86f7742d77340f62": "db/assort/ragfair/barter_scheme/5c0e625a86f7742d77340f62.json",
+					"5b44cf1486f77431723e3d05": "db/assort/ragfair/barter_scheme/5b44cf1486f77431723e3d05.json",
+					"5c0e541586f7747fa54205c9": "db/assort/ragfair/barter_scheme/5c0e541586f7747fa54205c9.json",
+					"5ca21c6986f77479963115a7": "db/assort/ragfair/barter_scheme/5ca21c6986f77479963115a7.json",
+					"5b44cd8b86f774503d30cba2": "db/assort/ragfair/barter_scheme/5b44cd8b86f774503d30cba2.json",
+					
+					"5_class_chest_stomach_plate": "db/assort/ragfair/barter_scheme/5_class_chest_stomach_plate.json",
+					"4_class_chest_stomach_plate": "db/assort/ragfair/barter_scheme/4_class_chest_stomach_plate.json",
+					"3_class_chest_stomach_plate": "db/assort/ragfair/barter_scheme/3_class_chest_stomach_plate.json",
+					"2_class_chest_stomach_plate": "db/assort/ragfair/barter_scheme/2_class_chest_stomach_plate.json",
+					
+					"2_class_chest_plate": "db/assort/ragfair/barter_scheme/2_class_chest_plate.json",
+					"3_class_chest_plate": "db/assort/ragfair/barter_scheme/3_class_chest_plate.json",
+					"4_class_chest_plate": "db/assort/ragfair/barter_scheme/4_class_chest_plate.json",
+					"5_class_chest_plate": "db/assort/ragfair/barter_scheme/5_class_chest_plate.json",
+					"6_class_chest_plate": "db/assort/ragfair/barter_scheme/6_class_chest_plate.json",
+					
+					"3_class_arm_plate": "db/assort/ragfair/barter_scheme/3_class_arm_plate.json",
+					"4_class_arm_plate": "db/assort/ragfair/barter_scheme/4_class_arm_plate.json",
+					"5_class_arm_plate": "db/assort/ragfair/barter_scheme/5_class_arm_plate.json",
+					"6_class_arm_plate": "db/assort/ragfair/barter_scheme/6_class_arm_plate.json",
+					"2_class_arm_plate": "db/assort/ragfair/barter_scheme/2_class_arm_plate.json"
+					},
+				"items": {
+					"6_class_chest_stomach_plate": "db/assort/ragfair/items/6_class_chest_stomach_plate.json",
+					"5_class_chest_stomach_plate": "db/assort/ragfair/items/5_class_chest_stomach_plate.json",
+					"4_class_chest_stomach_plate": "db/assort/ragfair/items/4_class_chest_stomach_plate.json",
+					"3_class_chest_stomach_plate": "db/assort/ragfair/items/3_class_chest_stomach_plate.json",
+					"2_class_chest_stomach_plate": "db/assort/ragfair/items/2_class_chest_stomach_plate.json",
+					
+					"2_class_chest_plate": "db/assort/ragfair/items/2_class_chest_plate.json",
+					"3_class_chest_plate": "db/assort/ragfair/items/3_class_chest_plate.json",
+					"4_class_chest_plate": "db/assort/ragfair/items/4_class_chest_plate.json",
+					"5_class_chest_plate": "db/assort/ragfair/items/5_class_chest_plate.json",
+					"6_class_chest_plate": "db/assort/ragfair/items/6_class_chest_plate.json",
+					
+					"3_class_arm_plate": "db/assort/ragfair/items/3_class_arm_plate.json",
+					"4_class_arm_plate": "db/assort/ragfair/items/4_class_arm_plate.json",
+					"5_class_arm_plate": "db/assort/ragfair/items/5_class_arm_plate.json",
+					"6_class_arm_plate": "db/assort/ragfair/items/6_class_arm_plate.json",
+					"2_class_arm_plate": "db/assort/ragfair/items/2_class_arm_plate.json"
+					},
+				"loyal_level_items": {
+					"6_class_chest_stomach_plate":"db/assort/ragfair/loyal_level_items/6_class_chest_stomach_plate.json",
+					"5_class_chest_stomach_plate":"db/assort/ragfair/loyal_level_items/5_class_chest_stomach_plate.json",
+					"4_class_chest_stomach_plate":"db/assort/ragfair/loyal_level_items/4_class_chest_stomach_plate.json",
+					"3_class_chest_stomach_plate":"db/assort/ragfair/loyal_level_items/3_class_chest_stomach_plate.json",
+					"2_class_chest_stomach_plate":"db/assort/ragfair/loyal_level_items/2_class_chest_stomach_plate.json",
+					
+					"2_class_chest_plate": "db/assort/ragfair/loyal_level_items/2_class_chest_plate.json",
+					"3_class_chest_plate": "db/assort/ragfair/loyal_level_items/3_class_chest_plate.json",
+					"4_class_chest_plate": "db/assort/ragfair/loyal_level_items/4_class_chest_plate.json",
+					"5_class_chest_plate": "db/assort/ragfair/loyal_level_items/5_class_chest_plate.json",
+					"6_class_chest_plate": "db/assort/ragfair/loyal_level_items/6_class_chest_plate.json",
+					
+					"3_class_arm_plate": "db/assort/ragfair/loyal_level_items/3_class_arm_plate.json",
+					"4_class_arm_plate": "db/assort/ragfair/loyal_level_items/4_class_arm_plate.json",
+					"5_class_arm_plate": "db/assort/ragfair/loyal_level_items/5_class_arm_plate.json",
+					"6_class_arm_plate": "db/assort/ragfair/loyal_level_items/6_class_arm_plate.json",
+					"2_class_arm_plate": "db/assort/ragfair/loyal_level_items/2_class_arm_plate.json"
+					}
+				}
+			},
+		"templates": {
+			 "items": {
+				"6_class_chest_stomach_plate": "db/templates/items/6_class_chest_stomach_plate.json",
+				"5648a7494bdc2d9d488b4583": "db/templates/items/5648a7494bdc2d9d488b4583.json",
+				"59e7635f86f7742cbf2c1095": "db/templates/items/59e7635f86f7742cbf2c1095.json",
+				"5df8a2ca86f7740bfe6df777": "db/templates/items/5df8a2ca86f7740bfe6df777.json",
+				"5ab8e4ed86f7742d8e50c7fa": "db/templates/items/5ab8e4ed86f7742d8e50c7fa.json",
+				"5c0e5edb86f77461f55ed1f7": "db/templates/items/5c0e5edb86f77461f55ed1f7.json",
+				"5c0e5bab86f77461f55ed1f3": "db/templates/items/5c0e5bab86f77461f55ed1f3.json",
+				"5b44d22286f774172b0c9de8": "db/templates/items/5b44d22286f774172b0c9de8.json",
+				"5c0e51be86f774598e797894": "db/templates/items/5c0e51be86f774598e797894.json",
+				"5c0e53c886f7747fa54205c7": "db/templates/items/5c0e53c886f7747fa54205c7.json",
+				"5c0e57ba86f7747fa141986d": "db/templates/items/5c0e57ba86f7747fa141986d.json",
+				"5c0e655586f774045612eeb2": "db/templates/items/5c0e655586f774045612eeb2.json",
+				"545cdb794bdc2d3a198b456a": "db/templates/items/545cdb794bdc2d3a198b456a.json",
+				"5e4abb5086f77406975c9342": "db/templates/items/5e4abb5086f77406975c9342.json",
+				"5ca2151486f774244a3b8d30": "db/templates/items/5ca2151486f774244a3b8d30.json",
+				"5ab8e79e86f7742d8b372e78": "db/templates/items/5ab8e79e86f7742d8b372e78.json",
+				"5b44d0de86f774503d30cba8": "db/templates/items/5b44d0de86f774503d30cba8.json",
+				"5c0e625a86f7742d77340f62": "db/templates/items/5c0e625a86f7742d77340f62.json",
+				"5b44cf1486f77431723e3d05": "db/templates/items/5b44cf1486f77431723e3d05.json",
+				"5c0e541586f7747fa54205c9": "db/templates/items/5c0e541586f7747fa54205c9.json",
+				"5ca21c6986f77479963115a7": "db/templates/items/5ca21c6986f77479963115a7.json",
+				"5b44cd8b86f774503d30cba2": "db/templates/items/5b44cd8b86f774503d30cba2.json",
+				
+				"5_class_chest_stomach_plate": "db/templates/items/5_class_chest_stomach_plate.json",
+				"4_class_chest_stomach_plate": "db/templates/items/4_class_chest_stomach_plate.json",
+				"3_class_chest_stomach_plate": "db/templates/items/3_class_chest_stomach_plate.json",
+				"2_class_chest_stomach_plate": "db/templates/items/2_class_chest_stomach_plate.json",
+				
+				"5_class_chest_plate": "db/templates/items/5_class_chest_plate.json",
+				"4_class_chest_plate": "db/templates/items/4_class_chest_plate.json",
+				"3_class_chest_plate": "db/templates/items/3_class_chest_plate.json",
+				"2_class_chest_plate": "db/templates/items/2_class_chest_plate.json",
+				"6_class_chest_plate": "db/templates/items/6_class_chest_plate.json",
+				
+				"5_class_arm_plate": "db/templates/items/5_class_arm_plate.json",
+				"4_class_arm_plate": "db/templates/items/4_class_arm_plate.json",
+				"3_class_arm_plate": "db/templates/items/3_class_arm_plate.json",
+				"6_class_arm_plate": "db/templates/items/6_class_arm_plate.json",
+				"2_class_arm_plate": "db/templates/items/2_class_arm_plate.json"
+				}
+			},
+		"locales": {
+			  "ru": {
+				"templates": {
+					"6_class_chest_stomach_plate": "db/locales/ru/templates/6_class_chest_stomach_plate.json",
+					"5_class_chest_stomach_plate": "db/locales/ru/templates/5_class_chest_stomach_plate.json",
+					"4_class_chest_stomach_plate": "db/locales/ru/templates/4_class_chest_stomach_plate.json",
+					"3_class_chest_stomach_plate": "db/locales/ru/templates/3_class_chest_stomach_plate.json",
+					"2_class_chest_stomach_plate": "db/locales/ru/templates/2_class_chest_stomach_plate.json",
+					
+					"6_class_chest_plate": "db/locales/ru/templates/6_class_chest_plate.json",
+					"5_class_chest_plate": "db/locales/ru/templates/5_class_chest_plate.json",
+					"4_class_chest_plate": "db/locales/ru/templates/4_class_chest_plate.json",
+					"3_class_chest_plate": "db/locales/ru/templates/3_class_chest_plate.json",
+					"2_class_chest_plate": "db/locales/ru/templates/2_class_chest_plate.json",
+					
+					"6_class_arm_plate": "db/locales/ru/templates/6_class_arm_plate.json",
+					"5_class_arm_plate": "db/locales/ru/templates/5_class_arm_plate.json",
+					"4_class_arm_plate": "db/locales/ru/templates/4_class_arm_plate.json",
+					"3_class_arm_plate": "db/locales/ru/templates/3_class_arm_plate.json",
+					"2_class_arm_plate": "db/locales/ru/templates/2_class_arm_plate.json"
+				}
+			},
+			  "en": {
+				"templates": {
+					"6_class_chest_stomach_plate": "db/locales/en/templates/6_class_chest_stomach_plate.json",
+					"5_class_chest_stomach_plate": "db/locales/en/templates/5_class_chest_stomach_plate.json",
+					"4_class_chest_stomach_plate": "db/locales/en/templates/4_class_chest_stomach_plate.json",
+					"3_class_chest_stomach_plate": "db/locales/en/templates/3_class_chest_stomach_plate.json",
+					"2_class_chest_stomach_plate": "db/locales/en/templates/2_class_chest_stomach_plate.json",
+					
+					"6_class_chest_plate": "db/locales/en/templates/6_class_chest_plate.json",
+					"5_class_chest_plate": "db/locales/en/templates/5_class_chest_plate.json",
+					"4_class_chest_plate": "db/locales/en/templates/4_class_chest_plate.json",
+					"3_class_chest_plate": "db/locales/en/templates/3_class_chest_plate.json",
+					"2_class_chest_plate": "db/locales/en/templates/2_class_chest_plate.json",
+					
+					"6_class_arm_plate": "db/locales/en/templates/6_class_arm_plate.json",
+					"5_class_arm_plate": "db/locales/en/templates/5_class_arm_plate.json",
+					"4_class_arm_plate": "db/locales/en/templates/4_class_arm_plate.json",
+					"3_class_arm_plate": "db/locales/en/templates/3_class_arm_plate.json",
+					"2_class_arm_plate": "db/locales/en/templates/2_class_arm_plate.json"
+				}
+			}
+		}
+	}
+}

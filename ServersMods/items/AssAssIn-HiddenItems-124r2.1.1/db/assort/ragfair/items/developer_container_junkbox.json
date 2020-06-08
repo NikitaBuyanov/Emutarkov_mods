@@ -1,0 +1,10 @@
+{
+	"_id": "developer_container_junkbox",
+	"_tpl": "developer_container_junkbox",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 500000
+	}
+}

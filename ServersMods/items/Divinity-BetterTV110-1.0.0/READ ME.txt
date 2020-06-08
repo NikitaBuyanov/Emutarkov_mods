@@ -1,0 +1,5 @@
+This mod makes the TV-110 Armored Rig protect both the chest and stomach. 
+
+It also increases the armor level to 5 instead of 4. 
+
+Just copy and paste the folder into your \server\user\mods folder.

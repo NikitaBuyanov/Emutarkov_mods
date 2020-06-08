@@ -1,0 +1,137 @@
+{
+	"_id": "5b44cf1486f77431723e3d05",
+	"_name": "item_equipment_armor_iotv_1",
+	"_parent": "5448e54d4bdc2dcc718b4568",
+	"_type": "Item",
+	"_props": {
+		"Name": "iotv_assault",
+		"ShortName": "iotv_assault",
+		"Description": "iotv_assault",
+		"Weight": 1.3,
+		"BackgroundColor": "blue",
+		"Width": 4,
+		"Height": 3,
+		"StackMaxSize": 1,
+		"Rarity": "Superrare",
+		"SpawnChance": 1,
+		"CreditsPrice": 80000,
+		"ItemSound": "gear_armor",
+		"Prefab": {
+			"path": "assets/content/items/equipment/armor_iotv_1/item_equipment_armor_iotv_1.bundle",
+			"rcid": ""
+		},
+		"UsePrefab": {
+			"path": "",
+			"rcid": ""
+		},
+		"StackObjectsCount": 1,
+		"NotShownInSlot": false,
+		"ExaminedByDefault": false,
+		"ExamineTime": 1,
+		"IsUndiscardable": false,
+		"IsUnsaleable": false,
+		"IsUnbuyable": false,
+		"IsUngivable": false,
+		"IsLockedafterEquip": false,
+		"QuestItem": false,
+		"LootExperience": 20,
+		"ExamineExperience": 2,
+		"HideEntrails": false,
+		"RepairCost": 1080,
+		"RepairSpeed": 10,
+		"ExtraSizeLeft": 0,
+		"ExtraSizeRight": 0,
+		"ExtraSizeUp": 0,
+		"ExtraSizeDown": 0,
+		"ExtraSizeForceAdd": false,
+		"MergesWithChildren": false,
+		"CanSellOnRagfair": true,
+		"CanRequireOnRagfair": true,
+		"BannedFromRagfair": false,
+		"ConflictingItems": [],
+		"FixedPrice": false,
+		"Unlootable": false,
+		"UnlootableFromSlot": "FirstPrimaryWeapon",
+		"UnlootableFromSide": [],
+		"ChangePriceCoef": 1,
+		"AllowSpawnOnLocations": [],
+		"SendToClient": false,
+		"AnimationVariantsNumber": 0,
+		"DiscardingBlock": false,
+		"Grids": [],
+		"Slots": [
+			{
+				"_name": "mod_equipment_000",
+				"_id": "ai7npzvz58fuqwm3jjpy2jmm",
+				"_parent": "545cdb794bdc2d3a198b456a",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"6_class_chest_stomach_plate",
+								"5_class_chest_stomach_plate",
+								"4_class_chest_stomach_plate",
+								"3_class_chest_stomach_plate",
+								"2_class_chest_stomach_plate"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": true,
+				"_proto": "zim3ryssmviyuf8hvy87u45e"
+			},
+			{
+				"_name": "mod_equipment_001",
+				"_id": "7z65r536ewumjqergu445ctt",
+				"_parent": "545cdb794bdc2d3a198b456a",
+				"_props": {
+					"filters": [
+						{
+							"Shift": 0,
+							"Filter": [
+								"6_class_arm_plate",
+								"5_class_arm_plate",
+								"4_class_arm_plate",
+								"3_class_arm_plate",
+								"2_class_arm_plate"
+							]
+						}
+					]
+				},
+				"_required": false,
+				"_mergeSlotWithChildren": true,
+				"_proto": "zim3ryssmviyuf8hvy87u45e"
+			}
+		],
+		"CanPutIntoDuringTheRaid": true,
+		"CantRemoveFromSlotsDuringRaid": [],
+		"BlocksEarpiece": false,
+		"BlocksEyewear": false,
+		"BlocksHeadwear": false,
+		"BlocksFaceCover": false,
+		"Durability": 75,
+		"MaxDurability": 75,
+		"armorClass": "0",
+		"speedPenaltyPercent": 0,
+		"mousePenalty": 0,
+		"weaponErgonomicPenalty": 0,
+		"armorZone": [],
+		"Indestructibility": 0.9,
+		"headSegments": [],
+		"FaceShieldComponent": false,
+		"FaceShieldMask": "NoMask",
+		"HasHinge": false,
+		"MaterialType": "BodyArmor",
+		"RicochetParams": {
+			"x": 0,
+			"y": 0,
+			"z": 80
+		},
+		"DeafStrength": "None",
+		"BluntThroughput": 1,
+		"ArmorMaterial": "Aramid"
+	},
+	"_proto": "545cdb794bdc2d3a198b456a"
+}

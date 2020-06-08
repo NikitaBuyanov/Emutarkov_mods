@@ -1,0 +1,10 @@
+{
+	"_id": "UltraHighDamage7.62x51mm",
+	"_tpl": "UltraHighDamage7.62x51mm",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 5000
+	}
+}

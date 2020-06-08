@@ -1,0 +1,10 @@
+{
+	"_id": "Explosive7.62x51mm",
+	"_tpl": "Explosive7.62x51mm",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 8000
+	}
+}

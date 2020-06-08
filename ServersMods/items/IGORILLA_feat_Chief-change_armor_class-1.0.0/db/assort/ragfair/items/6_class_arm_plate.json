@@ -1,0 +1,10 @@
+{
+	"_id": "6_class_arm_plate",
+	"_tpl": "6_class_arm_plate",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

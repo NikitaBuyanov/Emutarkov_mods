@@ -1,0 +1,18 @@
+{
+	"name": "EasyMode",
+	"author": "NoHurry",
+	"version": "1.1.0",
+	"license": "MIT",
+	"db": {
+		"profile": {
+			"Easy Mode": {
+				"character_bear": "db/profile/Easy Mode/character_bear.json",
+				"character_usec": "db/profile/Easy Mode/character_usec.json",
+				"storage_bear": "db/profile/Easy Mode/storage_bear.json",
+				"storage_usec": "db/profile/Easy Mode/storage_usec.json",
+				"trader_bear": "db/profile/Easy Mode/trader_bear.json",
+				"trader_usec": "db/profile/Easy Mode/trader_usec.json"
+			}
+		}
+	}
+}
